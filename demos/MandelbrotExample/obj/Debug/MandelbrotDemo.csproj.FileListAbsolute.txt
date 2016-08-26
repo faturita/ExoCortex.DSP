@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\asdf\demos\MandelbrotExample\bin\Debug\MandelbrotDemo.exe
+C:\Users\User\Desktop\asdf\demos\MandelbrotExample\bin\Debug\MandelbrotDemo.pdb
+C:\Users\User\Desktop\asdf\demos\MandelbrotExample\bin\Debug\Exocortex.DSP.v1.dll
+C:\Users\User\Desktop\asdf\demos\MandelbrotExample\bin\Debug\Exocortex.DSP.v1.pdb
+C:\Users\User\Desktop\asdf\demos\MandelbrotExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\asdf\demos\MandelbrotExample\obj\Debug\MandelbrotDemo.exe
+C:\Users\User\Desktop\asdf\demos\MandelbrotExample\obj\Debug\MandelbrotDemo.pdb

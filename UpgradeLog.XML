@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Exocortex.DSP.v1">
+</Property><Property Name="Solution File" Value="C:\Users\User\Desktop\asdf\Exocortex.DSP.v1.sln">
+</Property><Property Name="Date" Value="jueves, 15 de mayo de 2014">
+</Property><Property Name="Time" Value="15:34 p.m.">
+</Property></Properties><Event ErrorLevel="0" Project="Exocortex.DSP.v1" Source="src\Exocortex.DSP.v1.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Exocortex.DSP.v1" Source="src\Exocortex.DSP.v1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ImageFilterDemo" Source="demos\ImageFilterExample\ImageFilterDemo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ImageFilterDemo" Source="demos\ImageFilterExample\ImageFilterDemo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MandelbrotDemo" Source="demos\MandelbrotExample\MandelbrotDemo.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MandelbrotDemo" Source="demos\MandelbrotExample\MandelbrotDemo.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Exocortex.DSP.v1.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Exocortex.DSP.v1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Exocortex.DSP.v1" Source="src\Exocortex.DSP.v1.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ImageFilterDemo" Source="demos\ImageFilterExample\ImageFilterDemo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="MandelbrotDemo" Source="demos\MandelbrotExample\MandelbrotDemo.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

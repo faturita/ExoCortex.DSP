@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\asdf\demos\ImageFilterExample\bin\Debug\ImageFilterDemo.exe
+C:\Users\User\Desktop\asdf\demos\ImageFilterExample\bin\Debug\ImageFilterDemo.pdb
+C:\Users\User\Desktop\asdf\demos\ImageFilterExample\bin\Debug\Exocortex.DSP.v1.dll
+C:\Users\User\Desktop\asdf\demos\ImageFilterExample\bin\Debug\Exocortex.DSP.v1.pdb
+C:\Users\User\Desktop\asdf\demos\ImageFilterExample\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Desktop\asdf\demos\ImageFilterExample\obj\Debug\ImageFilterDemo.exe
+C:\Users\User\Desktop\asdf\demos\ImageFilterExample\obj\Debug\ImageFilterDemo.pdb
